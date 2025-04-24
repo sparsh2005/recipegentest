@@ -56,7 +56,7 @@ function App() {
       <header className="w-full border-b border-gray-800 bg-[#1a1b26] p-4">
         <div className="max-w-5xl mx-auto">
           <h1 className="text-2xl md:text-3xl font-bold text-white flex items-center gap-2">
-            🍽️ GPT Recipe Generator
+            🍽️ GPT Recipe Generator (test for Flavor-Forge)
           </h1>
         </div>
       </header>
